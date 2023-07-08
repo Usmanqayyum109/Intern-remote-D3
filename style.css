@@ -1,0 +1,14 @@
+.ser{
+    font-weight: bold;
+    text-align: center;
+    color: aqua;
+    border-bottom: 20px red solid;
+    padding-bottom: 5px;
+    transition: 0.3s;
+    font-size: 80px;
+    font-family: 'Fasthand', cursive;;
+}
+
+.ser:hover{
+    color: orange;
+}
